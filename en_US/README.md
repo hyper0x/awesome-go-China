@@ -270,6 +270,7 @@
 
 ## Server Applications
 
+- [Ran](https://github.com/m3ng9i/ran): a simple static web server written in Go
 
 
 ## Template Engines
