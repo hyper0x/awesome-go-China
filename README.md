@@ -202,7 +202,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/h
 
 *Libraries, tools, and tutorials for interacting with hardware.*
 
-See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive list.
 
 ## Images
 
@@ -407,9 +406,9 @@ Where to discover new Go libraries.
 
 
 
-### Tutorials
-
-
-
 ## Windows
+
+
+
+### Tutorials
 
