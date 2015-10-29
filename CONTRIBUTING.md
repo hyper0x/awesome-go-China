@@ -1,11 +1,11 @@
-This resource was made by the Go community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/hyper-carrot/awesome-go-CN/graphs/contributors).
+This resource was made by the Go community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/hyper-carrot/awesome-go-China/graphs/contributors).
 
 
 # Contribution Guidelines
 
 - **To add, remove, or change things on the list:** Submit a pull request
 
-To set this list apart from and compliment the excellent [Go wiki Projects page](https://golang.org/wiki/Projects), awesome-go-CN is a specially curated list for high-quality, actively maintained Go packages and resources written by Ethnic Chinese.
+To set this list apart from and compliment the excellent [Go wiki Projects page](https://golang.org/wiki/Projects), awesome-go-China is a specially curated list for high-quality, actively maintained Go packages and resources written by Ethnic Chinese.
 
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link
