@@ -283,7 +283,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Server Applications
 
-- [Ran](https://github.com/m3ng9i/ran): 使用 Go 开发的静态 web 服务器
+- [Ran](https://github.com/m3ng9i/ran): 一款支持 Digest 认证、gzip 压缩、TLS 加密等功能的静态 web 服务器。
 
 
 ## Template Engines
