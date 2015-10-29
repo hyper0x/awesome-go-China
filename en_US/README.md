@@ -270,6 +270,7 @@
 
 ## Server Applications
 
+- [Ran](https://github.com/m3ng9i/ran): a simple static web server which support digest authentication, gzip compression and TLS encryption.
 
 
 ## Template Engines
