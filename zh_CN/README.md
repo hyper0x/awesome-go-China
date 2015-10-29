@@ -274,6 +274,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries that are used to help make your application more secure.*
 
+- [gocaptcha](https://github.com/hanguofeng/gocaptcha): goCaptcha是支持中文和干扰线的验证码服务器。
+
 
 ## Serialization
 
@@ -331,7 +333,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries for version control.*
 
-
+- [gogs](https://github.com/gogits/gogs): Gogs (Go Git Service) 是一款可轻易搭建的自助 Git 服务。
 
 ## Video
 
