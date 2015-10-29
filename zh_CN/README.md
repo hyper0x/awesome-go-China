@@ -342,7 +342,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Full stack web frameworks.*
 
-
+- [Beego](http://beego.me)：Beego是一个快速开发 Go 应用的 HTTP 框架，他可以用来快速开发 API、Web 及后端服务等各种应用，框架具有简单化、智能化、模块化、高性能等特性。
 
 ### Middlewares
 
