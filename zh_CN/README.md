@@ -126,7 +126,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Database
 
-*用Go语言实现的数据库*
+*用Go语言实现的数据库。*
 
 - [LedisDB](http://ledisdb.com)：一个高性能的分布式数据库，类似于并兼容Redis。
 - [TiDB](https://github.com/pingcap/tidb)：TiDB 是一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
@@ -280,7 +280,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Security
 
-*Libraries that are used to help make your application more secure.*
+*用于安全防护的库、框架或服务器。*
 
 - [gocaptcha](https://github.com/hanguofeng/gocaptcha)：goCaptcha是支持中文和干扰线的验证码服务器。
 
@@ -293,6 +293,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Server Applications
 
+*通用的独立服务器软件。*
 
 - [Ran](https://github.com/m3ng9i/ran)：一款支持 Digest 认证、gzip 压缩、TLS 加密等功能的静态 web 服务器。
 
@@ -333,7 +334,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Utilities
 
-*General utilities and tools to make your life easier.*
+*有用的工具。*
 
 - [bat](https://github.com/astaxie/bat)：bat是类似curl的对人类友好的命令行程序，可以用来调试HTTP服务。
 
@@ -346,9 +347,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Version Control
 
-*Libraries for version control.*
+*用于进行版本控制的库或服务器。*
 
-- [gogs](https://github.com/gogits/gogs)：Gogs (Go Git Service) 是一款可轻易搭建的自助 Git 服务。
+- [Gogs](https://github.com/gogits/gogs)：Gogs是一款可轻易搭建的自助Git服务。
 
 ## Video
 
@@ -358,7 +359,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Web Frameworks
 
-*Full stack web frameworks.*
+*Web开发框架。*
 
 - [Beego](http://beego.me)：Beego是一个快速开发 Go 应用的 HTTP 框架，他可以用来快速开发 API、Web 及后端服务等各种应用，框架具有简单化、智能化、模块化、高性能等特性。
 
@@ -392,7 +393,6 @@ Software written in Go.
 
 ### DevOps Tools
 
-- [Gogs](http://gogs.io) - 一站式Git服务器。
 
 ### Other Software
 
