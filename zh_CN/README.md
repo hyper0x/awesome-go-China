@@ -225,9 +225,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 
 ## Messaging
+*用于实现消息系统的库，或可运行的消息系统。*
 
-*Libraries that implement messaging systems*
-
+- [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster): 一个易集群化的的Comet服务器，支持Web Socket和TCP协议。
 
 
 ## Miscellaneous
