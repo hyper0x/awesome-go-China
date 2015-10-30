@@ -143,11 +143,11 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *Libraries for connecting and operating databases.*
 
 * Relational Databases
-                                        
+
 * NoSQL Databases
-                                                                
+
 * Search and Analytic Databases
-                
+
 ## Date & Time
 
 *Libraries for working with dates and times.*
@@ -161,7 +161,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 - [glow](https://github.com/chrislusf/glow)：一个易于使用的分布式系统，可作为Hadoop、Spark、Flint、Samza的替代品。
 - [kafka-pusher(taiji)](https://github.com/crask/kafka-pusher)：Kafka-pusher(又名太极)是kafka服务的消费者实现，它可以拉取(pull)消费kafka中的消息，并通过HTTP方式推送(push)给任何接口。
 - [mqproxy](https://github.com/crask/mqproxy)：mqproxy是kafka的http代理服务。
-        
+
 ## Email
 
 *Libraries that implement email creation and sending*
@@ -289,7 +289,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries and tools for binary serialization*
 
-  
+
 
 ## Server Applications
 
@@ -309,11 +309,11 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *Libraries for testing codebases and generating test data.*
 
 * Testing Frameworks
-                                                            
+
 * Mock
-                    
+
 * Fuzzing and delta-debugging/reducing/shrinking
-                
+
 ## Text Processing
 
 *Libraries for parsing and manipulating texts.*
@@ -321,11 +321,11 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 * Specific Formats
                                                                                     * Utility
 
-## Text Search 
+## Text Search
 
-*全文搜索引擎或服务器。*   
+*全文搜索引擎或服务器。*
 
-- [wukong](https://github.com/huichen/wukong)：高效、高可定制的全文搜索引擎。                                     
+- [wukong](https://github.com/huichen/wukong)：高效、高可定制的全文搜索引擎。
 
 ## Third-party APIs
 
@@ -415,7 +415,7 @@ Where to discover new Go libraries.
 
 
 ## E-Books
-
+- [Go 语言学习笔记](https://github.com/qyuhen/book)：雨痕个人学习笔记
 
 
 ## Twitter
