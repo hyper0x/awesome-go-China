@@ -293,6 +293,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Server Applications
 
+
 - [Ran](https://github.com/m3ng9i/ran)：一款支持 Digest 认证、gzip 压缩、TLS 加密等功能的静态 web 服务器。
 
 
@@ -318,7 +319,12 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 * Specific Formats
                                                                                     * Utility
-                
+
+## Text Search 
+
+*全文搜索引擎或服务器。*   
+
+- [wukong](https://github.com/huichen/wukong)：高效、高可定制的全文搜索引擎。                                     
 
 ## Third-party APIs
 
@@ -386,7 +392,7 @@ Software written in Go.
 
 ### DevOps Tools
 
-
+- [Gogs](http://gogs.io) - 一站式Git服务器。
 
 ### Other Software
 
