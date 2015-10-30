@@ -128,7 +128,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Databases implemented in Go.*
 
-- [tidb](https://github.com/pingcap/tidb): TiDB 是一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
+- [tidb](https://github.com/pingcap/tidb)：TiDB 是一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
 
 *Database tools.*
 
@@ -155,10 +155,11 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Distributed Systems
 
-*Packages that help with building Distributed Systems.*
+*用于构建分布式系统的库，或可运行的分布式系统。*
 
-- [mqproxy](https://github.com/crask/mqproxy): mqproxy是kafka的http代理服务。
-- [kafka-pusher(taiji)](https://github.com/crask/kafka-pusher): Kafka-pusher(又名太极)是kafka服务的消费者实现，它可以拉取(pull)消费kafka中的消息，并通过HTTP方式推送(push)给任何接口。
+- [glow](https://github.com/chrislusf/glow)：一个易于使用的分布式系统，可作为Hadoop、Spark、Flint、Samza的替代品。
+- [kafka-pusher(taiji)](https://github.com/crask/kafka-pusher)：Kafka-pusher(又名太极)是kafka服务的消费者实现，它可以拉取(pull)消费kafka中的消息，并通过HTTP方式推送(push)给任何接口。
+- [mqproxy](https://github.com/crask/mqproxy)：mqproxy是kafka的http代理服务。
         
 ## Email
 
@@ -227,8 +228,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 ## Messaging
 *用于实现消息系统的库，或可运行的消息系统。*
 
-- [goim](https://github.com/Terry-Mao/goim): 一个轻量级、高性能的即时通讯服务器。
-- [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster): 一个易集群化的的Comet服务器，支持Web Socket和TCP协议。
+- [goim](https://github.com/Terry-Mao/goim)：一个轻量级、高性能的即时通讯服务器。
+- [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster)：一个易集群化的的Comet服务器，支持Web Socket和TCP协议。
 
 
 ## Miscellaneous
@@ -278,7 +279,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries that are used to help make your application more secure.*
 
-- [gocaptcha](https://github.com/hanguofeng/gocaptcha): goCaptcha是支持中文和干扰线的验证码服务器。
+- [gocaptcha](https://github.com/hanguofeng/gocaptcha)：goCaptcha是支持中文和干扰线的验证码服务器。
 
 
 ## Serialization
@@ -289,7 +290,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Server Applications
 
-- [Ran](https://github.com/m3ng9i/ran): 一款支持 Digest 认证、gzip 压缩、TLS 加密等功能的静态 web 服务器。
+- [Ran](https://github.com/m3ng9i/ran)：一款支持 Digest 认证、gzip 压缩、TLS 加密等功能的静态 web 服务器。
 
 
 ## Template Engines
@@ -325,7 +326,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *General utilities and tools to make your life easier.*
 
-- [bat](https://github.com/astaxie/bat): bat是类似curl的对人类友好的命令行程序，可以用来调试HTTP服务。
+- [bat](https://github.com/astaxie/bat)：bat是类似curl的对人类友好的命令行程序，可以用来调试HTTP服务。
 
 
 ## Validation
@@ -338,7 +339,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries for version control.*
 
-- [gogs](https://github.com/gogits/gogs): Gogs (Go Git Service) 是一款可轻易搭建的自助 Git 服务。
+- [gogs](https://github.com/gogits/gogs)：Gogs (Go Git Service) 是一款可轻易搭建的自助 Git 服务。
 
 ## Video
 
