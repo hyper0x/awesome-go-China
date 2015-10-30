@@ -330,7 +330,7 @@
 
 *Full stack web frameworks.*
 
-
+- [Beego](http://beego.me):Beego is an HTTP framework for rapid development of Go applications. It can be used to develop APIs, web apps and backend services quickly. It is a RESTful framework. It has the ease of use, intelligent, modular , high-performance characteristics.
 
 ### Middlewares
 
