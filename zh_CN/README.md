@@ -126,9 +126,10 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Database
 
-*Databases implemented in Go.*
+*用Go语言实现的数据库*
 
-- [tidb](https://github.com/pingcap/tidb)：TiDB 是一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
+- [LedisDB](http://ledisdb.com)：一个高性能的分布式数据库，类似于并兼容Redis。
+- [TiDB](https://github.com/pingcap/tidb)：TiDB 是一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
 
 *Database tools.*
 
