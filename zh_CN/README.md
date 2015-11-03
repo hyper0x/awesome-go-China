@@ -417,6 +417,9 @@ Where to discover new Go libraries.
 
 ## Conferences
 
+- [GopherChina](http://gopherchina.org)：Go语言官方认可的中国用户社区会议。
+- [GopherBeijing](http://www.meetup.com/golang-beijing)：Go语言北京用户组主办的定期活动和会议。
+
 
 ## E-Books
 
