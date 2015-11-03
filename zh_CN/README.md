@@ -189,7 +189,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Game Development
 
-*游戏开发库*
+*游戏开发库。*
 
 - [Leaf](https://github.com/name5566/leaf)：一个高效的游戏服务器开发框架，适用于各类游戏服务器的开发。
 
@@ -258,9 +258,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## ORM
 
-*Libraries that implement Object-Relational Mapping or datamapping techniques.*
+*实现对象-关系映射或其它数据映射技术的库。*
 
-
+- [xorm](https://github.com/go-xorm/xorm)：一个简单且强大的ORM库，支持MySQL、Postgres、TiDB、SQLite 3、MSSQL、Oracle等。
 
 ## Package Management
 
