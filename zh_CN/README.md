@@ -332,8 +332,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Third-party APIs
 
-*Libraries for accessing third party APIs.*
+*提供针对第三方平台的访问和操作功能的库。*
 
+[wechat](https://github.com/chanxuehong/wechat)：提供针对微信公众平台、微信企业号、微信商户平台和微信支付的相关功能的Go语言库。
 
 ## Utilities
 
@@ -419,15 +420,22 @@ Where to discover new Go libraries.
 
 ## E-Books
 
+- [Go命令教程](https://github.com/hyper-carrot/go_command_tutorial)：讲述Go语言标准工具的使用方法，展现Go语言给力的工程理念。
+- [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)：一套针对Go语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程。
+- [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)：讲述使用Go语言进行Web编程的方方面面。
+- [Go学习笔记](https://github.com/qyuhen/book)：雨痕的个人学习笔记，不知Go语言。不要被“学习笔记”迷惑，根本就是极好的入门教程。
 
 
-## Twitter
+## Online Tutorials
 
-
+- [Go语言第一课](http://www.imooc.com/view/345)：Go语言入门的必备知识扩散。
 
 ## Websites
 
-
+- [Go友团](http://golanghome.com)
+- [Go Walker](https://gowalker.org)
+- [Go语言中文网](http://studygolang.com)
+- [Golang中国](http://www.golangtc.com)
 
 ## Windows
 
