@@ -106,7 +106,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ## Configuration
 
-*Libraries for configuration parsing*
+*配置文件解析库*
+
+- [go-ini](https://github.com/go-ini/ini)：全能 INI 解析生成库
 
 
 ## Continuous Integration
@@ -366,6 +368,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *Web开发框架。*
 
 - [Beego](http://beego.me)：Beego是一个快速开发 Go 应用的 HTTP 框架，他可以用来快速开发 API、Web 及后端服务等各种应用，框架具有简单化、智能化、模块化、高性能等特性。
+- [Macaron](http://go-macaron.com)：高生产力和模块化设计的 Go Web 框架。
 
 ### Middlewares
 
@@ -432,6 +435,7 @@ Where to discover new Go libraries.
 ## Online Tutorials
 
 - [Go语言第一课](http://www.imooc.com/view/345)：Go语言入门的必备知识扩散。
+- [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)：新手入门必备教程
 
 ## Websites
 
