@@ -251,6 +251,7 @@
 
 *General object pool.*
 
+- [go-commons-pool](https://github.com/jolestar/go-commons-pool)：a Go generic object pool, direct translate from [Apache Commons Pool](https://commons.apache.org/proper/commons-pool/)，support rich pool configuration option.
 
 
 ## Resource Embedding
