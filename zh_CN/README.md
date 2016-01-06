@@ -275,6 +275,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *具有通用功能的对象池。*
 
+- [go-commons-pool](https://github.com/jolestar/go-commons-pool)：通用的Golang对象池，改写自Java版本的 [Apache Commons Pool](https://commons.apache.org/proper/commons-pool/)，具有丰富的配置选项以及超时机制。
+
 
 ## Resource Embedding
 
