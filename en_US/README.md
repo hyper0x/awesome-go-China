@@ -31,6 +31,7 @@
     - [OpenGL](#opengl)
     - [ORM](#orm)
     - [Package Management](#package-management)
+    - [Pool](#pool)
     - [Resource Embedding](#resource-embedding)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Security](#security)
@@ -244,6 +245,11 @@
 ## Package Management
 
 *Libraries for package and dependency management.*
+
+
+## Pool
+
+*General object pool.*
 
 
 

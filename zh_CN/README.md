@@ -44,6 +44,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
     - [OpenGL](#opengl)
     - [ORM](#orm)
     - [Package Management](#package-management)
+    - [Pool](#pool)
     - [Resource Embedding](#resource-embedding)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Security](#security)
@@ -270,7 +271,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 - [gopm](http://gopm.io)：一个代码包和依赖管理工具。它无需Git、Hg等版本管理工具，就可以下载指定版本的Go代码包。
 
+## Pool
 
+*具有通用功能的对象池。*
 
 
 ## Resource Embedding
