@@ -196,11 +196,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 - [Leaf](https://github.com/name5566/leaf)：一个高效的游戏服务器开发框架，适用于各类游戏服务器的开发。
 
-
 ## Generation & Generics
 
 *Tools to enhance the language with features like generics via code generation*
-
 
 
 ## GUI
@@ -252,6 +250,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries for working with various layers of the network*
 
+- [link](https://github.com/funny/link)：灵活的网络层脚手架，可用来快速搭建各种项目所需的网络层。
 
 ## OpenGL
 
@@ -276,7 +275,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *具有通用功能的对象池。*
 
 - [go-commons-pool](https://github.com/jolestar/go-commons-pool)：通用的Golang对象池，改写自Java版本的 [Apache Commons Pool](https://commons.apache.org/proper/commons-pool/)，具有丰富的配置选项以及超时机制。
-
+- [slab](https://github.com/funny/slab)：基于slab算法的内存池，提供无锁内存池和基于`sync.Pool`的内存池两种实现。
 
 ## Resource Embedding
 
@@ -299,6 +298,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries and tools for binary serialization*
 
+- [fastbin](https://github.com/funny/fastbin)：一个零配置的通讯协议代码生成工具，从Go结构体反向生成通讯协议代码，适用于各类游戏服务端开发。
 
 
 ## Server Applications
