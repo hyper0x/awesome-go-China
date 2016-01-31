@@ -99,6 +99,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries for building standard or basic Command Line applications*
 
+- [readline](https://github.com/chzyer/readline)：纯Go实现的GNU Readline的CLI库，提供类似zsh的交互体验。
 
 ### Advanced Console UIs
 
