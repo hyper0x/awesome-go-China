@@ -238,8 +238,7 @@
 
 ## ORM
 
-*Libraries that implement Object-Relational Mapping or datamapping techniques.*
-
+- [GORM](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly.
 
 
 ## Package Management
