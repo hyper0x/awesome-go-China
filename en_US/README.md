@@ -101,6 +101,7 @@
 
 *Tools for help with continuous integration*
 
+- [Cyclone](https://github.com/caicloud/cyclone): A cloud native CI/CD platform built for container workflow, written in Go, powered by [@caicloud](https://github.com/caicloud).
 
 ## CSS Preprocessors
 

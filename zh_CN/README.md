@@ -117,6 +117,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Tools for help with continuous integration*
 
+- [Cyclone](https://github.com/caicloud/cyclone)：一个打造容器工作流的持续集成和持续发布系统，使用 Go 语言实现，有详尽的中文文档，由 [@caicloud](https://github.com/caicloud) 实现。
 
 ## CSS Preprocessors
 
