@@ -256,6 +256,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *Libraries for working with various layers of the network*
 
 - [link](https://github.com/funny/link)：灵活的网络层脚手架，可用来快速搭建各种项目所需的网络层。
+- [Pholcus](https://github.com/henrylee2cn/pholcus)：Pholcus（幽灵蛛）是一款纯Go语言编写的支持分布式的高并发、重量级爬虫软件，定位于互联网数据采集，为具备一定Go或JS编程基础的人提供一个只需关注规则定制的功能强大的爬虫工具。
+- [Surfer](https://github.com/henrylee2cn/surfer)：Surfer 是一款Go语言编写的高并发 web 客户端，拥有surf与phantom两种下载内核，高度模拟浏览器行为，可实现模拟登录等功能。
 
 ## OpenGL
 
@@ -381,6 +383,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 - [Beego](http://beego.me)：Beego是一个快速开发 Go 应用的 HTTP 框架，他可以用来快速开发 API、Web 及后端服务等各种应用，框架具有简单化、智能化、模块化、高性能等特性。
 - [Macaron](http://go-macaron.com)：高生产力和模块化设计的 Go Web 框架。
+- [Faygo](https://github.com/henrylee2cn/faygo)：Faygo 是一款快速、简洁的Go Web框架，可用极少的代码开发出高性能的Web应用程序（尤其是API接口）。只需定义 struct Handler，Faygo 就能自动绑定、验证请求参数并生成在线API文档。
+- [Teleport](https://github.com/henrylee2cn/teleport)：Teleport是一个通用、高效、灵活的TCP Socket框架。可用于Peer-Peer对等通信、RPC、长连接网关、微服务、推送服务，游戏服务等领域。
 
 ### Middlewares
 
