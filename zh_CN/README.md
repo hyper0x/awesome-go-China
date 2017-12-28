@@ -99,6 +99,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries for building standard or basic Command Line applications*
 
+- [readline](https://github.com/chzyer/readline)：纯Go实现的GNU Readline的CLI库，提供类似zsh的交互体验。
 
 ### Advanced Console UIs
 
@@ -116,6 +117,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Tools for help with continuous integration*
 
+- [Cyclone](https://github.com/caicloud/cyclone)：一个打造容器工作流的持续集成和持续发布系统，使用 Go 语言实现，有详尽的中文文档，由 [@caicloud](https://github.com/caicloud) 实现。
 
 ## CSS Preprocessors
 
@@ -162,6 +164,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *用于构建分布式系统的库，或可运行的分布式系统。*
 
 - [glow](https://github.com/chrislusf/glow)：一个易于使用的分布式系统，可作为Hadoop、Spark、Flint、Samza的替代品。
+- [hprose-golang](https://github.com/hprose/hprose-golang)：一个支持 20 多种语言的功能强大，简单易用的高性能动态 RPC，该版本是它的 go 语言实现。
 - [kafka-pusher(taiji)](https://github.com/crask/kafka-pusher)：Kafka-pusher(又名太极)是kafka服务的消费者实现，它可以拉取(pull)消费kafka中的消息，并通过HTTP方式推送(push)给任何接口。
 - [mqproxy](https://github.com/crask/mqproxy)：mqproxy是kafka的http代理服务。
 
@@ -197,11 +200,9 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 - [Leaf](https://github.com/name5566/leaf)：一个高效的游戏服务器开发框架，适用于各类游戏服务器的开发。
 - [mqant](https://github.com/liangdas/mqant/)：一个简洁、高效和高性能的分布式游戏服务器框架。
 
-
 ## Generation & Generics
 
 *Tools to enhance the language with features like generics via code generation*
-
 
 
 ## GUI
@@ -253,6 +254,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries for working with various layers of the network*
 
+- [link](https://github.com/funny/link)：灵活的网络层脚手架，可用来快速搭建各种项目所需的网络层。
 
 ## OpenGL
 
@@ -265,6 +267,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 *实现对象-关系映射或其它数据映射技术的库。*
 
 - [xorm](https://github.com/go-xorm/xorm)：一个简单且强大的ORM库，支持MySQL、Postgres、TiDB、SQLite 3、MSSQL、Oracle等。
+- [GORM](https://github.com/jinzhu/gorm): 程序员友好的全功能ORM，API 简洁，支持Model之间一对一、一对多、多对多关联，还可通过插件扩展功能等。
 
 ## Package Management
 
@@ -276,6 +279,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *具有通用功能的对象池。*
 
+- [go-commons-pool](https://github.com/jolestar/go-commons-pool)：通用的Golang对象池，改写自Java版本的 [Apache Commons Pool](https://commons.apache.org/proper/commons-pool/)，具有丰富的配置选项以及超时机制。
+- [slab](https://github.com/funny/slab)：基于slab算法的内存池，提供无锁内存池和基于`sync.Pool`的内存池两种实现。
 
 ## Resource Embedding
 
@@ -298,6 +303,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries and tools for binary serialization*
 
+- [fastbin](https://github.com/funny/fastbin)：一个零配置的通讯协议代码生成工具，从Go结构体反向生成通讯协议代码，适用于各类游戏服务端开发。
+- [hprose](https://github.com/hprose/hprose-golang)：一个支持 20 多种语言的序列化库，该版本是它的 go 语言实现。
 
 
 ## Server Applications
@@ -388,7 +395,8 @@ Go software and plugins.
 
 
 ## Code Analysis
-
+* [go-checkstyle](https://github.com/qiniu/checkstyle) 根据go语言规范，参考 java 
+checkstyle 实现的代码风格检查工具
 
 
 ## Editor Plugins

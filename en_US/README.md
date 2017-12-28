@@ -101,6 +101,7 @@
 
 *Tools for help with continuous integration*
 
+- [Cyclone](https://github.com/caicloud/cyclone): A cloud native CI/CD platform built for container workflow, written in Go, powered by [@caicloud](https://github.com/caicloud).
 
 ## CSS Preprocessors
 
@@ -238,8 +239,7 @@
 
 ## ORM
 
-*Libraries that implement Object-Relational Mapping or datamapping techniques.*
-
+- [GORM](https://github.com/jinzhu/gorm): The fantastic ORM library for Golang, aims to be developer friendly.
 
 
 ## Package Management
@@ -251,6 +251,7 @@
 
 *General object pool.*
 
+- [go-commons-pool](https://github.com/jolestar/go-commons-pool)：a Go generic object pool, direct translate from [Apache Commons Pool](https://commons.apache.org/proper/commons-pool/)，support rich pool configuration option.
 
 
 ## Resource Embedding
@@ -352,7 +353,7 @@ Go software and plugins.
 
 
 ## Code Analysis
-
+* [go-checkstyle](https://github.com/qiniu/checkstyle) checkstyle is a style check tool like java checkstyle. This tool inspired by [java checkstyle](https://github.com/checkstyle/checkstyle), [golint] (https://github.com/golang/lint). The style refered to some points in [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
 
 
 ## Editor Plugins
