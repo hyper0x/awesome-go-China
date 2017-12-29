@@ -230,6 +230,8 @@
 
 *Libraries for working with various layers of the network*
 
+- [Teleport](https://github.com/henrylee2cn/teleport)：Teleport is a versatile, high-performance and flexible TCP socket framework. It can be used for peer-peer, rpc, gateway, micro services, push services, game services and so on.
+- [Surfer](https://github.com/henrylee2cn/surfer)：Package surfer is a high level concurrency http client. It has surf andphantom download engines, highly simulated browser behavior, the function of analog login and so on.
 
 ## OpenGL
 
@@ -338,6 +340,7 @@
 *Full stack web frameworks.*
 
 - [Beego](http://beego.me):Beego is an HTTP framework for rapid development of Go applications. It can be used to develop APIs, web apps and backend services quickly. It is a RESTful framework. It has the ease of use, intelligent, modular , high-performance characteristics.
+- [Faygo](https://github.com/henrylee2cn/faygo)：Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct Handler, Faygo will automatically bind/verify the request parameters and generate the online API doc.
 
 ### Middlewares
 
