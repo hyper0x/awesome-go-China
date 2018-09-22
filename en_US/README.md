@@ -117,6 +117,7 @@
 
 *Databases implemented in Go.*
 
+[CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)：A decentralized, crowdsourcing SQL database on blockchain.
 
 *Database tools.*
 
