@@ -1,5 +1,5 @@
 # awesome-go-China
-A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+This contains a curated list of useful and innovative Go frameworks, libraries and software systems written by Ethnic Chinese developers. This was inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 --------------------------------------------------------
 
