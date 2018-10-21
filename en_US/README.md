@@ -318,7 +318,7 @@
 *General utilities and tools to make your life easier.*
 
 - [tsdump](https://github.com/voidint/tsdump): Database table structure dump tool.
-
+- [soar](https://github.com/XiaoMi/soar): A tool, which can help SQL optimization and rewrite. It's developed and maintained by the DBA Team of Xiaomi AI&Cloud.
 
 
 ## Validation
