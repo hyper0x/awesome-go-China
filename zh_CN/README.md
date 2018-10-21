@@ -360,6 +360,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 - [bat](https://github.com/astaxie/bat)：bat是类似curl的对人类友好的命令行程序，可以用来调试HTTP服务。
 - [tsdump](https://github.com/voidint/tsdump)：数据库表结构导出工具。
+- [soar](https://github.com/XiaoMi/soar)：一个对SQL进行优化和改写的自动化工具。由小米人工智能与云平台的数据库团队开发与维护。
 
 
 ## Validation
