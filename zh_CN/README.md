@@ -168,7 +168,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 - [hprose-golang](https://github.com/hprose/hprose-golang)：一个支持 20 多种语言的功能强大，简单易用的高性能动态 RPC，该版本是它的 go 语言实现。
 - [kafka-pusher(taiji)](https://github.com/crask/kafka-pusher)：Kafka-pusher(又名太极)是kafka服务的消费者实现，它可以拉取(pull)消费kafka中的消息，并通过HTTP方式推送(push)给任何接口。
 - [mqproxy](https://github.com/crask/mqproxy)：mqproxy是kafka的http代理服务。
-
+Redis分布式集群解决方案
+- [codis](https://github.com/CodisLabs/codis):对于上层的应用来说, 连接到 Codis Proxy 和连接原生的 Redis Server 没有显著区别
 ## Email
 
 *Libraries that implement email creation and sending*
