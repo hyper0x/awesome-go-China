@@ -61,6 +61,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
         - [Middlewares](#middlewares)
             - [Actual middlewares](#actual-middlewares)
             - [Libraries for creating HTTP middlewares](#libraries-for-creating-http-middlewares)
+        - [Routers](#routers)
     - [Windows](#windows)
 
 - [Tools](#tools)
@@ -390,6 +391,10 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 - [Faygo](https://github.com/henrylee2cn/faygo)：Faygo 是一款快速、简洁的Go Web框架，可用极少的代码开发出高性能的Web应用程序（尤其是API接口）。只需定义 struct Handler，Faygo 就能自动绑定、验证请求参数并生成在线API文档。
 
 ### Middlewares
+
+### Routers
+
+- [Gorouter](https://github.com/xujiajun/gorouter): Gorouter是一个简单高性能的http router，支持正则，基于Gorouter很方便组建自己的web框架以及编写RestFul Api。
 
 #### Actual middlewares
 
