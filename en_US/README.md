@@ -48,6 +48,7 @@
         - [Middlewares](#middlewares)
             - [Actual middlewares](#actual-middlewares)
             - [Libraries for creating HTTP middlewares](#libraries-for-creating-http-middlewares)
+        - [Routers](#routers)
     - [Windows](#windows)
 
 - [Tools](#tools)
@@ -347,6 +348,10 @@
 - [Faygo](https://github.com/henrylee2cn/faygo)：Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct Handler, Faygo will automatically bind/verify the request parameters and generate the online API doc.
 
 ### Middlewares
+
+### Routers
+
+- [Gorouter](https://github.com/xujiajun/gorouter): Gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.
 
 #### Actual middlewares
 
