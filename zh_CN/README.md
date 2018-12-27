@@ -392,15 +392,16 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 ### Middlewares
 
-### Routers
-
-- [Gorouter](https://github.com/xujiajun/gorouter): Gorouter是一个简单高性能的http router，支持正则，基于Gorouter很方便组建自己的web框架以及编写RestFul Api。
-
 #### Actual middlewares
 
 
 #### Libraries for creating HTTP middlewares
 
+### Routers
+
+*Web请求路由器。*
+
+- [Gorouter](https://github.com/xujiajun/gorouter): Gorouter是一个简单高性能的http router，支持正则，基于Gorouter很方便组建自己的web框架以及编写RestFul Api。
 
 # Tools
 
