@@ -349,15 +349,16 @@
 
 ### Middlewares
 
-### Routers
-
-- [Gorouter](https://github.com/xujiajun/gorouter): Gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.
-
 #### Actual middlewares
 
 
 #### Libraries for creating HTTP middlewares
 
+### Routers
+
+*Web-oriented routers.*
+
+- [Gorouter](https://github.com/xujiajun/gorouter): Gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.
 
 # Tools
 
