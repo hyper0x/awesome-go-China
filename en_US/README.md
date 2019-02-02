@@ -113,6 +113,8 @@
 
 *Generic datastructures and algorithms in Go.*
 
+- [go-tagexpr](https://github.com/bytedance/go-tagexpr): An interesting go struct tag expression syntax for field validation, etc.
+
 
 ## Database
 
