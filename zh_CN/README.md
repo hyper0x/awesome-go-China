@@ -463,9 +463,9 @@ Where to discover new Go libraries.
 
 ## Online Tutorials
 
-- [Go语言第一课](http://www.imooc.com/view/345)：Go语言入门的必备知识扩散。
-- [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)：新手入门必备教程
-- [Go 核心技术36讲](https://time.geekbang.org/column/intro/112)：深入讲解Go语言核心技术的在线课程。
+- [Go语言第一课](http://www.imooc.com/view/345)：Go语言入门的必备知识扩散。【免费】
+- [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)：新手入门必备教程。【免费】
+- [Go 核心技术36讲](https://time.geekbang.org/column/intro/112)：深入讲解Go语言核心技术的在线课程。【付费】
 
 ## Websites
 
