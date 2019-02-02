@@ -210,7 +210,7 @@
 
 *Libraries for Machine Learning.*
 
-
+- [gorse](https://github.com/zhenghaoz/gorse): A High Performance Recommender System Package based on Collaborative Filtering for Go.
 
 ## Messaging
 

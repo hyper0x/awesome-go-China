@@ -233,6 +233,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *Libraries for Machine Learning.*
 
+- [gorse](https://github.com/zhenghaoz/gorse)：一个高性能的、基于协同过滤的推荐系统代码包。
 
 
 ## Messaging
@@ -295,7 +296,6 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 ## Science and Data Analysis
 
 *Libraries for scientific computing and data analyzing.*
-
 
 
 ## Security
