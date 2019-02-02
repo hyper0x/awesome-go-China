@@ -261,10 +261,12 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 *可在网络中任意一层工作的库。*
 
+- [cast](https://github.com/xiaojiaoyu100/cast)：友好方便的http请求库。
 - [link](https://github.com/funny/link)：灵活的网络层脚手架，可用来快速搭建各种项目所需的网络层。
 - [Pholcus](https://github.com/henrylee2cn/pholcus)：Pholcus（幽灵蛛）是一款纯Go语言编写的支持分布式的高并发、重量级爬虫软件，定位于互联网数据采集，为具备一定Go或JS编程基础的人提供一个只需关注规则定制的功能强大的爬虫工具。
 - [Teleport](https://github.com/henrylee2cn/teleport)：Teleport是一个通用、高效、灵活的TCP Socket框架。可用于Peer-Peer对等通信、RPC、长连接网关、微服务、推送服务，游戏服务等领域。
 - [Surfer](https://github.com/henrylee2cn/surfer)：Surfer 是一款Go语言编写的高并发 web 客户端，拥有surf与phantom两种下载内核，高度模拟浏览器行为，可实现模拟登录等功能。
+
 
 ## OpenGL
 
