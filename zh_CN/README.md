@@ -397,6 +397,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 ### Middlewares
 
 #### Actual middlewares
+- [Gin Metrics](https://github.com/kylesliu/gin_metrics)：基于Gin的一个中间件，负责将请求的信息以*Metrics*个方式暴露出来，通过Prometheus抓取之后在Grafana展示。只要不到10分钟即可在原有的架构基础上搭建一套监控系统。
 
 
 #### Libraries for creating HTTP middlewares
