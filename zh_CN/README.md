@@ -418,7 +418,7 @@ Go software and plugins.
 checkstyle 实现的代码风格检查工具
 
 ## Redis Analysis
-* [go-redis-memory-analysis](https://github.com/hhxsv5/go-redis-memory-analysis) 根据Key前缀分析Redis内存占用情况，并将分析结果导出为CSV文件。
+* [go-redis-memory-analysis](https://github.com/hhxsv5/go-redis-memory-analysis) 🔎 根据Key前缀分析Redis内存占用情况，并将分析结果导出为CSV文件。
 
 
 ## Editor Plugins
