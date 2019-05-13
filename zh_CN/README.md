@@ -460,6 +460,9 @@ Where to discover new Go libraries.
 - [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)：一套针对Go语言的第三方库进行评测讲解的集博客、示例与语音视频为一体的综合教程。
 - [Go Web编程](https://github.com/astaxie/build-web-application-with-golang)：讲述使用Go语言进行Web编程的方方面面。
 - [Go学习笔记](https://github.com/qyuhen/book)：雨痕的个人学习笔记。
+- [42分钟乱入 GAE(with go1)](http://chaos2.zoomquiet.top/go1/build/html/) 大妈的实例功能开发自学笔记
+
+
 
 
 ## Online Tutorials
