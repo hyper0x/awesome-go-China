@@ -4,7 +4,6 @@ Please fill out the form below according to the actual requirements of your open
 
 --------------------------------------------------------
 
-| 项目名称 | 项目主页 | 工作内容 | 工作时长（每天） | 工作天数（总） |报酬 | 截止日期 | 联系方式 |
 | Project Name | Project Home | Working Content | Working Hours(per day) | Working Days(total) | Rewards | Deadline | Contact |
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | awesome-go-China | [awesome-go-China](https://github.com/hyper0x/awesome-go-China) | text editing | 3 | 10 | none | 2019-06-01 | hypermind@outlook.com |
