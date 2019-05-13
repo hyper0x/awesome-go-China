@@ -66,8 +66,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 - [Tools](#tools)
     - [Code Analysis](#code-analysis)
+    - [Redis Analysis](#redis-analysis)
     - [Editor Plugins](#editor-plugins)
-    - [Go Tools](#go-tools)
     - [Software Packages](#software-packages)
         - [DevOps Tools](#devops-tools)
         - [Other Software](#other-software)
