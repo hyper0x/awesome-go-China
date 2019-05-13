@@ -66,8 +66,8 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 
 - [Tools](#tools)
     - [Code Analysis](#code-analysis)
+    - [Redis Analysis](#redis-analysis)
     - [Editor Plugins](#editor-plugins)
-    - [Go Tools](#go-tools)
     - [Software Packages](#software-packages)
         - [DevOps Tools](#devops-tools)
         - [Other Software](#other-software)
@@ -393,6 +393,7 @@ _可以看到，以上标准均不是绝对条件。我们会进行权衡，并�
 - [Beego](http://beego.me)：Beego是一个快速开发 Go 应用的 HTTP 框架，他可以用来快速开发 API、Web 及后端服务等各种应用，框架具有简单化、智能化、模块化、高性能等特性。
 - [Macaron](http://go-macaron.com)：高生产力和模块化设计的 Go Web 框架。
 - [Faygo](https://github.com/henrylee2cn/faygo)：Faygo 是一款快速、简洁的Go Web框架，可用极少的代码开发出高性能的Web应用程序（尤其是API接口）。只需定义 struct Handler，Faygo 就能自动绑定、验证请求参数并生成在线API文档。
+- [Gin-X](https://github.com/hhxsv5/gin-x) 基于[Gin](https://github.com/gin-gonic/gin)封装的开发模板，以便快速上手。
 
 ### Middlewares
 
@@ -416,11 +417,11 @@ Go software and plugins.
 * [go-checkstyle](https://github.com/qiniu/checkstyle) 根据go语言规范，参考 java 
 checkstyle 实现的代码风格检查工具
 
+## Redis Analysis
+* [go-redis-memory-analysis](https://github.com/hhxsv5/go-redis-memory-analysis) 🔎 根据Key前缀分析Redis内存占用情况，并将分析结果导出为CSV文件。
+
 
 ## Editor Plugins
-
-
-## Go Tools
 
 
 ## Software Packages

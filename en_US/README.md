@@ -53,8 +53,8 @@
 
 - [Tools](#tools)
     - [Code Analysis](#code-analysis)
+    - [Redis Analysis](#redis-analysis)
     - [Editor Plugins](#editor-plugins)
-    - [Go Tools](#go-tools)
     - [Software Packages](#software-packages)
         - [DevOps Tools](#devops-tools)
         - [Other Software](#other-software)
@@ -349,6 +349,7 @@
 
 - [Beego](http://beego.me):Beego is an HTTP framework for rapid development of Go applications. It can be used to develop APIs, web apps and backend services quickly. It is a RESTful framework. It has the ease of use, intelligent, modular , high-performance characteristics.
 - [Faygo](https://github.com/henrylee2cn/faygo)：Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct Handler, Faygo will automatically bind/verify the request parameters and generate the online API doc.
+- [Gin-X](https://github.com/hhxsv5/gin-x) [Gin](https://github.com/gin-gonic/gin) template, more components to improve development efficiency.
 
 ### Middlewares
 
@@ -370,6 +371,9 @@ Go software and plugins.
 
 ## Code Analysis
 * [go-checkstyle](https://github.com/qiniu/checkstyle) checkstyle is a style check tool like java checkstyle. This tool inspired by [java checkstyle](https://github.com/checkstyle/checkstyle), [golint] (https://github.com/golang/lint). The style refered to some points in [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
+
+## Redis Analysis
+* [go-redis-memory-analysis](https://github.com/hhxsv5/go-redis-memory-analysis) 🔎 Analyzing memory of redis is to find the keys(prefix) which used a lot of memory, export the analysis result into csv file. 
 
 
 ## Editor Plugins
