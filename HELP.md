@@ -8,3 +8,4 @@ Please fill out the form below according to the actual requirements of your open
 |:--|:--|:--|:--|:--|:--|:--|:--|
 | awesome-go-China | [awesome-go-China](https://github.com/hyper0x/awesome-go-China) | text editing | 3 | 10 | none | 2019-06-01 | hypermind@outlook.com |
 | talon | [talon](https://github.com/hyper0x/talon) | feature coding | 2 | 30 | $30/feature | 2019-05-15 | hypermind@outlook.com |
+| gin_metrics | [gin_metrics](https://github.com/kylesliu/gin_metrics) | feature coding | - | - | none | 2019-05-15 | kylesliu@outlook.com |

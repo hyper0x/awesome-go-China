@@ -354,7 +354,7 @@
 ### Middlewares
 
 #### Actual middlewares
-
+- [Gin Metrics](https://github.com/kylesliu/gin_metrics)：A middleware based on Gin that is responsible for exposing the requested logs to *Metrics*, showing it in Grafana after being crawled by Prometheus. In less than 10 minutes, a monitoring system can be built on the original architecture.
 
 #### Libraries for creating HTTP middlewares
 
