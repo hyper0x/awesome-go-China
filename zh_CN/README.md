@@ -177,6 +177,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 - [hprose-golang](https://github.com/hprose/hprose-golang)：一个支持 20 多种语言的功能强大，简单易用的高性能动态 RPC，该版本是它的 go 语言实现。
 - [kafka-pusher(taiji)](https://github.com/crask/kafka-pusher)：Kafka-pusher(又名太极)是kafka服务的消费者实现，它可以拉取(pull)消费kafka中的消息，并通过HTTP方式推送(push)给任何接口。
 - [mqproxy](https://github.com/crask/mqproxy)：mqproxy是kafka的http代理服务。
+- [eru](https://github.com/projecteru2/core)：一款可以混合调度编排 container/vm 的平台组件。
 
 ## Email
 
