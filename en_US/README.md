@@ -97,6 +97,7 @@
 
 *Libraries for configuration parsing*
 
+- [ini](https://github.com/gookit/ini): Go INI config management. support multi file load, data override merge. parse ENV variable, parse variable reference.
 
 ## Continuous Integration
 
