@@ -118,7 +118,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 *配置文件解析库*
 
 - [go-ini](https://github.com/go-ini/ini)：全能 INI 解析生成库
-
+- [ini](https://github.com/gookit/ini): INI配置读取管理，支持多文件加载，数据覆盖合并, 解析ENV变量, 支持变量引用
 
 ## Continuous Integration
 
