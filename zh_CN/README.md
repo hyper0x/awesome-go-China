@@ -375,6 +375,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 - [bcbc](https://github.com/hexindai/bcbc)：根据银联银行卡号查询所在银行以及银行卡类型的工具。
 - [soar](https://github.com/XiaoMi/soar)：一个对SQL进行优化和改写的自动化工具。由小米人工智能与云平台的数据库团队开发与维护。
 - [tsdump](https://github.com/voidint/tsdump)：数据库表结构导出工具。
+- [g](https://github.com/voidint/g)：golang多版本管理器。
 
 
 ## Validation
