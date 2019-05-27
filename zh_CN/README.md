@@ -144,6 +144,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)：利用区块链技术的一个众包SQL数据库。
 - [LedisDB](http://ledisdb.com)：一个高性能的分布式数据库，类似于并兼容Redis。
+- [Tedis](https://github.com/eleme/tedis)：Tedis 是一个基于[TiKV](https://github.com/tikv/tikv)的NoSQL数据库，拥有强一致性，并且兼容 Redis 协议。
 - [TiDB](https://github.com/pingcap/tidb)：一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
 
 *Database tools.*
@@ -354,7 +355,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 *Libraries for parsing and manipulating texts.*
 
 * Specific Formats
-                                                                                    * Utility
+
 
 ## Text Search
 
@@ -367,6 +368,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 *提供针对第三方平台的访问和操作功能的库。*
 
 - [wechat](https://github.com/chanxuehong/wechat)：提供针对微信公众平台、微信企业号、微信商户平台和微信支付的相关功能的Go语言库。
+- [GoPay](https://github.com/iGoogle-ink/gopay)：微信支付、支付宝支付等的Go版本SDK。
 
 ## Utilities
 
@@ -411,7 +413,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 #### Actual middlewares
 
 - [Gin Metrics](https://github.com/kylesliu/gin_metrics)：基于Gin的一个中间件，负责将请求的日志以*Metrics*个方式暴露出来，通过Prometheus抓取之后在Grafana展示。只要不到10分钟即可在原有的架构基础上搭建一套监控系统。
-
+- [Gaea](https://github.com/XiaoMi/Gaea)：小米中国区电商研发部研发的基于MySQL协议的数据库中间件。
 
 #### Libraries for creating HTTP middlewares
 

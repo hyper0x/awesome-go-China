@@ -1,3 +1,4 @@
+❗**WARNING: The English list is likely to lag behind the Chinese one. If you want a guarantee of the latest content, please visit the Chinese list.**
 
 ### Contents
 
@@ -121,7 +122,10 @@
 
 *Databases implemented in Go.*
 
-[CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)：A decentralized, crowdsourcing SQL database on blockchain.
+- [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)：A decentralized, crowdsourcing SQL database on blockchain.
+- [LedisDB](http://ledisdb.com)：A high performance NoSQL like Redis powered by Go.
+- [Tedis](https://github.com/eleme/tedis): A [TiKV](https://github.com/tikv/tikv)-based NoSQL database with strong consistency and compatibility with Redis protocol.
+- [TiDB](https://github.com/pingcap/tidb)：A distributed HTAP database compatible with the MySQL protocol.
 
 *Database tools.*
 
@@ -312,8 +316,7 @@
 *Libraries for parsing and manipulating texts.*
 
 * Specific Formats
-                                                                                    * Utility
-                
+
 
 ## Third-party APIs
 
@@ -361,6 +364,7 @@
 #### Actual middlewares
 
 - [Gin Metrics](https://github.com/kylesliu/gin_metrics)：A middleware based on Gin that is responsible for exposing the requested logs to *Metrics*, showing it in Grafana after being crawled by Prometheus. In less than 10 minutes, a monitoring system can be built on the original architecture.
+- [Gaea](https://github.com/XiaoMi/Gaea):  A MySQL proxy, it's developed by XiaoMi b2c-systech team.
 
 
 #### Libraries for creating HTTP middlewares
