@@ -391,7 +391,8 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 
 *用于进行版本控制的库或服务器。*
 
-- [Gogs](https://github.com/gogits/gogs)：Gogs是一款可轻易搭建的自助Git服务。
+- [Gitea](https://github.com/go-gitea/gitea)：一个开源社区驱动的轻量级代码托管解决方案，后端采用Go编写，采用MIT许可证。
+- [Gogs](https://github.com/gogits/gogs)：一款可轻易搭建的自助Git服务。
 
 ## Video
 
