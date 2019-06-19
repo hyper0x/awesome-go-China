@@ -112,6 +112,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 
 *Libraries for building Console Applications and Console User Interfaces*
 
+- [gcli](https://github.com/gookit/gcli) Go的命令行应用，工具库，运行CLI命令，支持命令行色彩、用户交互、进度显示、数据格式化显示、生成bash/zsh命令补全脚本
 
 ## Configuration
 
