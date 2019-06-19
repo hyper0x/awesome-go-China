@@ -93,6 +93,7 @@
 
 *Libraries for building Console Applications and Console User Interfaces*
 
+- [gcli](https://github.com/gookit/gcli) Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features.
 
 ## Configuration
 
