@@ -127,7 +127,7 @@
 - [LedisDB](http://ledisdb.com)：A high performance NoSQL like Redis powered by Go.
 - [Tedis](https://github.com/eleme/tedis): A [TiKV](https://github.com/tikv/tikv)-based NoSQL database with strong consistency and compatibility with Redis protocol.
 - [TiDB](https://github.com/pingcap/tidb)：A distributed HTAP database compatible with the MySQL protocol.
-
+- [NutsDB](https://github.com/xujiajun/nutsdb): A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
 *Database tools.*
 
 
