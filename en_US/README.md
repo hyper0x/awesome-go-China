@@ -20,6 +20,7 @@
     - [Forms](#forms)
     - [Game Development](#game-development)
     - [Generation & Generics](#generation--generics)
+    - [Goroutines](#goroutines)
     - [GUI](#gui)
     - [Hardware](#hardware)
     - [Images](#images)
@@ -191,7 +192,11 @@
 
 *Tools to enhance the language with features like generics via code generation*
 
+## Goroutines
 
+*Tools for managing and working with Goroutines.*
+
+- [ants](https://github.com/panjf2000/ants): A high-performance goroutine pool in Go.
 
 ## GUI
 
@@ -240,6 +245,7 @@
 
 *Libraries for working with various layers of the network*
 
+- [gnet](https://github.com/panjf2000/gnet): A high-performance, lightweight, nonblocking, event-loop networking library written in pure Go.
 - [Kube-OVN](https://github.com/alauda/kube-ovn): An OVN-based Kubernetes Network Fabric for Enterprises.
 - [Pholcus](https://github.com/henrylee2cn/pholcus): Pholcus is a distributed, high concurrency and powerful web crawler software.
 - [Surfer](https://github.com/henrylee2cn/surfer): Package surfer is a high level concurrency http client. It has surf andphantom download engines, highly simulated browser behavior, the function of analog login and so on.

@@ -38,6 +38,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
     - [Forms](#forms)
     - [Game Development](#game-development)
     - [Generation & Generics](#generation--generics)
+    - [Goroutines](#goroutines)
     - [GUI](#gui)
     - [Hardware](#hardware)
     - [Images](#images)
@@ -220,6 +221,14 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 *Tools to enhance the language with features like generics via code generation*
 
 
+
+## Goroutines
+
+*管理和调度 goroutines 的工具库*
+
+- [ants](https://github.com/panjf2000/ants): A high-performance goroutine pool in Go.
+
+
 ## GUI
 
 *Libraries for building GUI Applications*
@@ -271,6 +280,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 
 *可在网络中任意一层工作的库。*
 
+- [gnet](https://github.com/panjf2000/gnet): A high-performance, lightweight, nonblocking, event-loop networking library written in pure Go.
 - [Kube-OVN](https://github.com/alauda/kube-ovn): 基于 OVN 的 Kubernetes 网络编排系统。
 - [link](https://github.com/funny/link)：灵活的网络层脚手架，可用来快速搭建各种项目所需的网络层。
 - [Pholcus](https://github.com/henrylee2cn/pholcus)：Pholcus（幽灵蛛）是一款纯Go语言编写的支持分布式的高并发、重量级爬虫软件，定位于互联网数据采集，为具备一定Go或JS编程基础的人提供一个只需关注规则定制的功能强大的爬虫工具。
