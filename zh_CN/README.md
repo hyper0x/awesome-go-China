@@ -56,6 +56,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Security](#security)
     - [Serialization](#serialization)
+    - [Storage](#storage)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
     - [Text Processing](#text-processing)
@@ -338,6 +339,11 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 - [fastbin](https://github.com/funny/fastbin)：一个零配置的通讯协议代码生成工具，从Go结构体反向生成通讯协议代码，适用于各类游戏服务端开发。
 - [hprose](https://github.com/hprose/hprose-golang)：一个支持 20 多种语言的序列化库，该版本是它的 go 语言实现。
 
+## Storage
+
+*存储相关的软件库以及系统。*
+
+- [gotgt](https://github.com/gostor/gotgt)：一个完整的用户态实现的iSCSI target，后端可以适配任何其他存储系统。
 
 ## Server Applications
 
