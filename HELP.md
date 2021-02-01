@@ -7,6 +7,5 @@ Please fill out the form below according to the actual requirements of your open
 | Project Name     | Project Home                                                 | Working Content | Working Hours(per day) | Working Days(total) | Rewards     | Deadline   | Contact               |
 | :--------------- | :----------------------------------------------------------- | :-------------- | :--------------------- | :------------------ | :---------- | :--------- | :-------------------- |
 | awesome-go-China | [awesome-go-China](https://github.com/hyper0x/awesome-go-China) | text editing    | 3                      | 10                  | none        | 2019-06-01 | hypermind@outlook.com |
-| talon            | [talon](https://github.com/hyper0x/talon)                    | feature coding  | 2                      | 30                  | $30/feature | 2019-05-15 | hypermind@outlook.com |
 | gin_metrics      | [gin_metrics](https://github.com/kylesliu/gin_metrics)       | feature coding  | -                      | -                   | none        | 2019-05-15 | kylesliu@outlook.com  |
 | rosedb           | [rosedb](https://github.com/roseduan/rosedb)                 | featue coding   | -                      | -                   | none        | 2021-01-01 | roseduan7@163.com     |
