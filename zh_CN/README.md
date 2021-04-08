@@ -150,6 +150,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 - [Tedis](https://github.com/eleme/tedis)：Tedis 是一个基于[TiKV](https://github.com/tikv/tikv)的NoSQL数据库，拥有强一致性，并且兼容 Redis 协议。
 - [TiDB](https://github.com/pingcap/tidb)：一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
 - [NutsDB](https://github.com/xujiajun/nutsdb): 一个简单、高性能、内嵌型的KV数据库，支持事务以及多种数据结构包括list, set, sorted set。
+- [rosedb](https://github.com/roseduan/rosedb)：一个仿 Redis 的内嵌 k-v 数据库，支持 string、list、hash、set、sorted set 多种数据结构。
 
 *Database tools.*
 
