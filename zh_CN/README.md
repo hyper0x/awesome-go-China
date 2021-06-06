@@ -146,6 +146,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 *用Go语言实现的数据库。*
 
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)：利用区块链技术的一个众包SQL数据库。
+- [Godis](https://github.com/hdt3213/godis)：一个用 Golang 实现的 Redis 服务器，支持 Redis 的大多数功能并自带集群模式
 - [LedisDB](http://ledisdb.com)：一个高性能的分布式数据库，类似于并兼容Redis。
 - [Tedis](https://github.com/eleme/tedis)：Tedis 是一个基于[TiKV](https://github.com/tikv/tikv)的NoSQL数据库，拥有强一致性，并且兼容 Redis 协议。
 - [TiDB](https://github.com/pingcap/tidb)：一个支持SQL的分布式数据库，其参考了Google F1的设计，兼具NoSQL和传统关系型数据库的优点。
