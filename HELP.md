@@ -1,6 +1,6 @@
 请根据你的开源项目的实际需求填写下面的表格。表头之后的第一行为示例。**更新此文件时请不要修改或删除本提示及示例。**
 
-Please fill out the form below according to the actual requirements of your open source project. The first two lines after the header are two examples. **Please do not modify or delete this tip and those examples when updating this file.**
+Please fill out the form below according to the actual requirements of your open source project. The first line after the header are two examples. **Please do not modify or delete this tip and those examples when updating this file.**
 
 --------------------------------------------------------
 
