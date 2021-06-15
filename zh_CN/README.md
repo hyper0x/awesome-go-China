@@ -429,6 +429,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 - [Faygo](https://github.com/henrylee2cn/faygo)：Faygo 是一款快速、简洁的Go Web框架，可用极少的代码开发出高性能的Web应用程序（尤其是API接口）。只需定义 struct Handler，Faygo 就能自动绑定、验证请求参数并生成在线API文档。
 - [Gin-X](https://github.com/hhxsv5/gin-x) 基于[Gin](https://github.com/gin-gonic/gin)封装的开发模板，以便快速上手。
 - [Macaron](http://go-macaron.com)：高生产力和模块化设计的 Go Web 框架。
+- [snake](https://github.com/1024casts/snake) 一款小巧的基于Go构建的开发框架，可以快速构建API服务或者Web网站进行业务开发，遵循SOLID设计原则
 
 ### Middlewares
 
