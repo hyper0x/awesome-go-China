@@ -125,7 +125,7 @@
 *Databases implemented in Go.*
 
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL)：A decentralized, crowdsourcing SQL database on blockchain.
-- [DTM](https://github.com/yedf/dtm)：A distributed transaction management system. Idempotency is ensured by sdk elegantly.Multi language supported.
+- [DTM](https://github.com/yedf/dtm)：A distributed transaction management system. Idempotency is ensured by sdk elegantly. Multi language supported.
 - [Godis](https://github.com/hdt3213/godis)： A Golang implemented high-performance Redis server and cluster.
 - [LedisDB](http://ledisdb.com)：A high performance NoSQL like Redis powered by Go.
 - [Tedis](https://github.com/eleme/tedis): A [TiKV](https://github.com/tikv/tikv)-based NoSQL database with strong consistency and compatibility with Redis protocol.
@@ -143,11 +143,11 @@
 *Libraries for connecting and operating databases.*
 
 * Relational Databases
-                                        
+
 * NoSQL Databases
-                                                                
+
 * Search and Analytic Databases
-                
+
 ## Date & Time
 
 *Libraries for working with dates and times.*
@@ -160,7 +160,7 @@
 
 - [GoFrame](https://github.com/gogf/gf): A modular, powerful, high-performance and enterprise-class application development framework of Golang. I providing a series of core components and dozens of practical modules.
 
-        
+
 ## Email
 
 *Libraries that implement email creation and sending*
@@ -299,7 +299,7 @@
 
 *Libraries and tools for binary serialization*
 
-  
+
 
 ## Server Applications
 
@@ -317,11 +317,11 @@
 *Libraries for testing codebases and generating test data.*
 
 * Testing Frameworks
-                                                            
+
 * Mock
-                    
+
 * Fuzzing and delta-debugging/reducing/shrinking
-                
+
 ## Text Processing
 
 *Libraries for parsing and manipulating texts.*
@@ -398,7 +398,7 @@ Go software and plugins.
 
 ## Redis Analysis
 
-* [go-redis-memory-analysis](https://github.com/hhxsv5/go-redis-memory-analysis) 🔎 Analyzing memory of redis is to find the keys(prefix) which used a lot of memory, export the analysis result into csv file. 
+* [go-redis-memory-analysis](https://github.com/hhxsv5/go-redis-memory-analysis) 🔎 Analyzing memory of redis is to find the keys(prefix) which used a lot of memory, export the analysis result into csv file.
 
 
 ## Editor Plugins
