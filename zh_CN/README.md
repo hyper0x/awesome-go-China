@@ -474,6 +474,7 @@ Software written in Go.
 
 ### DevOps Tools
 
+* [http-log-exporter](https://github.com/songjiayang/http-log-exporter) 一个将 Nginx、Gin 等 HTTP 请求日志转化为 Prometheus Metrics 的工具，支持 histogram 和 exemplar 配置。
 
 ### Other Software
 

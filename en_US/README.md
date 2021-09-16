@@ -414,6 +414,7 @@ Software written in Go.
 
 ### DevOps Tools
 * [Gebug](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
+* [http-log-exporter](https://github.com/songjiayang/http-log-exporter) - A Prometheus exporter for nginx、gin HTTP log, support histogram and exemplar configuration.
 
 
 ### Other Software
