@@ -45,7 +45,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
     - [Logging](#logging)
     - [Machine Learning](#machine-learning)
     - [Messaging](#messaging)
-    - [Management background](#management-background)
+    - [Backstage Management System](#management-background)
     - [Miscellaneous](#miscellaneous)
     - [Natural Language Processing](#natural-language-processing)
     - [Networking](#networking)
@@ -271,9 +271,9 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster)：一个易集群化的的Comet服务器，支持Web Socket和TCP协议。
 - [KiteQ](https://github.com/blackbeans/kiteq)：支持多种持久化方案的消息队列框架。
 
-## Management background
+## Backstage Management System
 
-*管理后台相关的项目*
+*管理后台相关的项目。*
 
 - [go-ldap-admin](https://github.com/eryajf/go-ldap-admin)：🌉 基于Go+Vue实现的openLDAP后台管理项目。
 
