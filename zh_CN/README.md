@@ -193,6 +193,7 @@ _以上标准均不是绝对条件。我们会进行权衡，并尽量提升本�
 - [kafka-pusher(taiji)](https://github.com/crask/kafka-pusher)：Kafka-pusher(又名太极)是kafka服务的消费者实现，它可以拉取(pull)消费kafka中的消息，并通过HTTP方式推送(push)给任何接口。
 - [mqproxy](https://github.com/crask/mqproxy)：mqproxy是kafka的http代理服务。
 - [GoFrame](https://github.com/gogf/gf)：一款模块化、高性能、企业级的Go基础开发框架，并实现了比较完善的基础设施建设以及开发工具链。
+- [Kratos](https://github.com/go-kratos/kratos) 轻量级、可定制、拥抱云原生和开源标准的 Go 微服务框架，帮助您快速实现可支撑大型互联网业务的微服务应用。
 
 ## Email
 
